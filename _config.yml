@@ -12,5 +12,9 @@ color:
   rhythmicContrast: 0.7224311
 layout_spectrum: 0.9310777
 name: TransFilm
+navigation:
+  - name: IB Film | Shack
+    url: 'https://sites.google.com/site/theibfilmshack/Home'
+    type: external
 title: The Art of Film
 description: as creative path for self-development
