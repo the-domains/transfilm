@@ -1,0 +1,14 @@
+layout_spectrum: 0.9310777
+typography_spectrum: 0.06015038
+color:
+  saturation: 0.4078947
+  brandStrength: 0.7744361
+  lightness: 0.7393484
+  brandColors:
+    - '#9D9892'
+    - '#872BE6'
+    - '#012440'
+    - '#03708E'
+    - '#02BC02'
+  rhythmicContrast: 0.7224311
+name: TransFilm
