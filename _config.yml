@@ -11,6 +11,9 @@ color:
     - '#02BC02'
   rhythmicContrast: 0.7224311
 layout_spectrum: 0.9310777
+author:
+  name: Luciana Vasques Barbosa
+  email: luciana.vasques@gmail.com
 name: TransFilm
 navigation:
   - name: IB Film | Shack
