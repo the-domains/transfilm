@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-18T18:13:48.087Z'
+datePublished: '2016-08-18T18:15:57.996Z'
 sourcePath: _posts/2016-08-18-the-i-in-film.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8f55ccc-7fae-4f9b-9470-e7b5906935d5.png
 author: []
 via: {}
-dateModified: '2016-08-18T18:13:47.597Z'
+dateModified: '2016-08-18T18:15:57.916Z'
 title: The "I" in film
 publisher: {}
 description: Who are you? Who do you aspire to be?
