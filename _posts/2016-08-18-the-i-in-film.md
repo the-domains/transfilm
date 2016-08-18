@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-18T18:13:17.888Z'
+datePublished: '2016-08-18T18:13:48.087Z'
+sourcePath: _posts/2016-08-18-the-i-in-film.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8f55ccc-7fae-4f9b-9470-e7b5906935d5.png
 author: []
 via: {}
-dateModified: '2016-08-18T18:12:55.626Z'
+dateModified: '2016-08-18T18:13:47.597Z'
 title: The "I" in film
 publisher: {}
 description: Who are you? Who do you aspire to be?
 starred: false
-sourcePath: _posts/2016-08-18-the-i-in-film.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -29,5 +29,3 @@ If "I" is in truth an internalised image, composed of our experiences of encount
 There, your film as potentially a mirror of yourself. Furthermore, can the experience of making film extrapolate what is and take you on a journey of becoming?
 
 What is your story? What is your form? What is your reality?
-
-https://vimeo.com/ondemand/make?utm\_source=Musicbed+List&utm\_campaign=4b70b025ed-Mailchimp-MAKE-Weekend-Plans-July-22&utm\_medium=email&utm\_term=0\_345aad153d-4b70b025ed-300152321
