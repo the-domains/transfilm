@@ -1,19 +1,19 @@
 ---
+datePublished: '2016-08-18T18:36:00.662Z'
+sourcePath: >-
+  _posts/2016-08-18-musicbed-is-the-perfect-venue-for-you-to-exercise-your-creat.md
+author:
+  - url: 'http://inspi.red.org/'
+via: {}
+dateModified: '2016-08-18T18:36:00.412Z'
+title: ''
+publisher: {}
 description: >-
   MUSICBED is the perfect venue for you to exercise your creative filmmaker's
   mind. Just close your eyes and let the cinematic sounds flow in your
   imagination. And don't forget… write those jewels down in your notebook. You
   never know when they'll become the next big thing in your productions.
-dateModified: '2016-08-18T18:35:40.025Z'
-datePublished: '2016-08-18T18:35:51.879Z'
-title: ''
-author:
-  - url: 'http://inspi.red.org/'
-publisher: {}
-via: {}
 starred: false
-sourcePath: >-
-  _posts/2016-08-18-musicbed-is-the-perfect-venue-for-you-to-exercise-your-creat.md
 inFeed: true
 hasPage: false
 inNav: false
