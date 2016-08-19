@@ -1,23 +1,35 @@
-typography_spectrum: 0.06015038
+author:
+  name: Luciana Vasques Barbosa
+  email: luciana.vasques@gmail.com
+title: The Art of Film
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.4078947
-  brandStrength: 0.7744361
-  lightness: 0.7393484
+  saturation: 0.5231829
+  brandStrength: 0.8101504
+  lightness: 0.4166667
   brandColors:
     - '#9D9892'
     - '#872BE6'
     - '#012440'
     - '#03708E'
     - '#02BC02'
-  rhythmicContrast: 0.7224311
-layout_spectrum: 0.9310777
-author:
-  name: Luciana Vasques Barbosa
-  email: luciana.vasques@gmail.com
-name: TransFilm
+  rhythmicContrast: 0.7907268
+typography_spectrum: 0.7775689
+description: as creative path for self-development
 navigation:
   - name: IB Film | Shack
     url: 'https://sites.google.com/site/theibfilmshack/Home'
     type: external
-title: The Art of Film
-description: as creative path for self-development
+layout_spectrum: 0.6741855
+name: TransFilm
