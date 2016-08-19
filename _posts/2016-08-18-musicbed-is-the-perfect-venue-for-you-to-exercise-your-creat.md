@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-19T11:27:45.423Z'
+datePublished: '2016-08-19T11:28:03.765Z'
 sourcePath: >-
   _posts/2016-08-18-musicbed-is-the-perfect-venue-for-you-to-exercise-your-creat.md
-isBasedOnUrl: 'https://www.musicbed.com/'
+isBasedOnUrl: ''
 author:
   - url: 'http://inspi.red.org/'
 via: {}
-dateModified: '2016-08-19T11:27:39.335Z'
+dateModified: '2016-08-19T11:28:02.769Z'
 title: ''
 publisher: {}
 description: >-
